@@ -1,0 +1,10 @@
+Object          Message
+
+Person          use_bike
+
+Bike            is_working?
+
+Docking station   release_bike
+
+User sends message to docking station to release bike
+bike send message to docking that it works/doesn't work
